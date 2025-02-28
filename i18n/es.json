@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "Despliega más rápido, paga menos",
+    "subtitle": "Una plataforma de alojamiento en la nube escalable y amigable para desarrolladores con implementaciones sin problemas.",
+    "cta": "Comenzar"
+  },
+  "features": {
+    "title": "¿Por qué elegirnos?",
+    "fastDeploy": {
+      "title": "🚀 Despliegues rápidos",
+      "description": "Despliega tus aplicaciones en segundos sin tiempo de inactividad."
+    },
+    "affordablePricing": {
+      "title": "💰 Precios asequibles",
+      "description": "Paga solo por lo que usas, sin cargos ocultos."
+    },
+    "scalableInfra": {
+      "title": "📈 Infraestructura escalable",
+      "description": "Escalado automático sin problemas para manejar cualquier carga de trabajo."
+    }
+  }
+}

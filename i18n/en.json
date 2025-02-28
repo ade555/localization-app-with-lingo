@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "Deploy Faster, Pay Less",
+    "subtitle": "A scalable, developer-friendly cloud hosting platform with seamless deployments.",
+    "cta": "Get Started"
+  },
+  "features": {
+    "title": "Why Choose Us?",
+    "fastDeploy": {
+      "title": "🚀 Fast Deployments",
+      "description": "Deploy your apps in seconds with zero downtime."
+    },
+    "affordablePricing": {
+      "title": "💰 Affordable Pricing",
+      "description": "Pay only for what you use, with no hidden fees."
+    },
+    "scalableInfra": {
+      "title": "📈 Scalable Infrastructure",
+      "description": "Seamless auto-scaling to handle any workload."
+    }
+  }
+}

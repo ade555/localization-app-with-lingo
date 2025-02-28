@@ -1,0 +1,13 @@
+version: 1
+checksums:
+  4188a166aad2705b4f09401f924502ed:
+    hero/title: c3650b58615caff5746d0aa54ac13936
+    hero/subtitle: 0adcdbaea3fb18820bf6893f64e3e4c3
+    hero/cta: 1d5f030c4ec9c869e647ae060518b948
+    features/title: eb09fd908701a4e21fac7f60cf871ce7
+    features/fastDeploy/title: df31181624c78e1cce704ca8425eb169
+    features/fastDeploy/description: 0da5c50f72627691ae9fd63a847c5f1e
+    features/affordablePricing/title: 0df5fb3c52be1e3768375c88ecd4d24d
+    features/affordablePricing/description: 96562245832bcf3a1618b3000470b936
+    features/scalableInfra/title: 21412acce29399ec4fcde44851727ed3
+    features/scalableInfra/description: 537fe90c11a930d457b8858db1e21c14

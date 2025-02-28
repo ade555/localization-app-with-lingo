@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "Déployez plus vite, payez moins",
+    "subtitle": "Une plateforme d'hébergement cloud évolutive et conviviale pour les développeurs, avec des déploiements fluides.",
+    "cta": "Commencer"
+  },
+  "features": {
+    "title": "Pourquoi nous choisir ?",
+    "fastDeploy": {
+      "title": "🚀 Déploiements rapides",
+      "description": "Déployez vos applications en quelques secondes sans temps d'arrêt."
+    },
+    "affordablePricing": {
+      "title": "💰 Prix abordables",
+      "description": "Payez uniquement ce que vous utilisez, sans frais cachés."
+    },
+    "scalableInfra": {
+      "title": "📈 Infrastructure évolutive",
+      "description": "Mise à l'échelle automatique fluide pour gérer toute charge de travail."
+    }
+  }
+}
