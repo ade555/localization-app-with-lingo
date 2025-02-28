@@ -12,7 +12,7 @@ i18n.use(initReactI18next).init({
     fr: { translation: fr },
     es: { translation: es },
   },
-  lng: "es",
+  lng: "en",
   fallbackLng: "en",
   interpolation: { escapeValue: false }, // this helps to avoid unnecessary HTML escaping
 });
